@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nicola Lorenzon / Personal webpage"
+title                    : "Nicola Lorenzon"
 title_separator          : "-"
 name                     : &name "Nicola Lorenzon"
 description              : &description "personal description"
-url                      : https://nicola_lorenzon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://onlynicoo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "onlynicoo/onlynicoo.github.io.git"
 
