@@ -22,13 +22,13 @@ repository               : "onlynicoo/onlynicoo.github.io.git"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nicola Lorenzon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I'm an Italian guy doing my master thesis in Computer Science @ ETH Zurich Rycolab\\Main focus on the expressiveness on transformers\\In my spare time I like to build sound systems and to cook good food"
+  location         : "Zürich - Switzerland"
+  employer         : "University of Padua x ETH Zürich"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nicolalorenzon99@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
