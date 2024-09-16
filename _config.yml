@@ -24,7 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Nicola Lorenzon"
   pronouns         : # example: "she/her"  
-  bio              : "I'm an Italian guy doing my master thesis in Computer Science @ ETH Zurich Rycolab\nMain focus on the expressiveness on transformers\nIn my spare time I like to build sound systems and to cook good food"
+  bio              : "I'm an Italian guy doing my master thesis in Computer Science @ ETH Zurich Rycolab
+                      Main focus on the expressiveness on transformers
+                      In my spare time I like to build sound systems and to cook good food"
   location         : "Zürich - Switzerland"
   employer         : "University of Padua x ETH Zürich"
   uri              : # URL
