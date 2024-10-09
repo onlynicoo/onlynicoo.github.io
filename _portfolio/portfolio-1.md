@@ -1,7 +1,16 @@
 ---
-title: "Project 1"
-excerpt: "Project 1: description<br/><img src='/images/500x300.png'>"
+title: "RAG: UniPD Academic Assistant"
+excerpt: "Project 1: description<br/><img src='/images/RAG UniPD Academic Assistant/Front Image.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+
+### Academic Project: RAG System for Answering Students' Questions
+
+Developed a Retrieval-Augmented Generation (RAG) system able to answer students' doubts and questions regarding the courses of Computer Engineering at UniPD.
+
+#### The project includes:
+- **Dataset creation**: scraping the UniPD website
+- **Validation set creation** using state of the art LLM
+- **Model selection** for the retrieval part
