@@ -13,4 +13,4 @@ Developed a C++ project using ROS (Robot Operating System) to move the Tiago rob
 - **Object localization** pointing the head and using AprilTag
 - **Integration of ROS** as framework 
 
-[GitHub Link](https://github.com/onlynicoo/intelligent_robotics/tree/main)
+[GitHub Link](https://github.com/onlynicoo/intelligent_robotics)
