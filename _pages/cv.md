@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can download [here](/files/CV_Nicola_Lorenzon.pdf) the following CV
+The following is my updated CV; please use it carefully.
 <embed src="/files/CV_Nicola_Lorenzon.pdf" width="600" height="500" type="application/pdf">
