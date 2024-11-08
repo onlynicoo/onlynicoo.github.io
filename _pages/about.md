@@ -14,3 +14,5 @@ My thesis lie in the intersection of artificial intelligence and formal language
 Before diving into this field, I completed my bachelor's and master's degree at UniPD. During my master's, I was awarded a [12k€ grant](https://www.unipd.it/sites/unipd.it/files/2023/Prot_Verbale%20riunione%20da%20remotoComm%20BPISS_30_10_2023.pdf.pdf) to develop a project in computer vision. I’ve consistently maintained a high academic standing, with a GPA of 29.7/30 throughout my studies.
 
 Outside of academics, I’m deeply passionate about reggae music (but not only), my friends and I built our own soundsystem! When I’m not immersed in research or new projects, you can find me exploring new music and seeking out fresh opportunities.
+
+**Note:** This website is still a work in progress, so stay tuned for updates!
