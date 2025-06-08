@@ -1,18 +1,27 @@
-<div class="row">
-  {% for item in site.portfolio %}
-  <div class="col-md-4 mb-4">
-    <div class="card h-100">
-      {% if item.image %}
-      <img src="{{ item.image }}" class="card-img-top" alt="{{ item.title }}">
-      {% endif %}
-      <div class="card-body">
-        <h5 class="card-title">{{ item.title }}</h5>
-        <p class="card-text">{{ item.excerpt | strip_html | truncatewords: 25 }}</p>
-      </div>
-      <div class="card-footer">
-        <small class="text-muted">{{ item.date | date: "%d %B %Y" }}</small>
+---
+layout: page
+title: Portfolio
+permalink: /portfolio/
+---
+
+<div class="container mt-4">
+  <h1 class="mb-4">Portfolio</h1>
+  <div class="row">
+    {% for item in site.portfolio %}
+    <div class="col-md-4 mb-4">
+      <div class="card h-100 shadow-sm">
+        {% if item.image %}
+        <img src="{{ item.image }}" class="card-img-top" alt="{{ item.title }}">
+        {% endif %}
+        <div class="card-body">
+          <h5 class="card-title">{{ item.title }}</h5>
+          <p class="card-text">{{ item.excerpt | strip_html | truncatewords: 25 }}</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">{{ item.date | date: "%d %B %Y" }}</small>
+        </div>
       </div>
     </div>
+    {% endfor %}
   </div>
-  {% endfor %}
 </div>
