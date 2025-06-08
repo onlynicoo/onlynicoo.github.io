@@ -1,14 +1,18 @@
----
-layout: archive
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: true
----
-
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<div class="row">
+  {% for project in site.portfolio %}
+    <div class="col-md-4 mb-4">
+      <div class="card h-100">
+        {% if project.image %}
+        <img src="{{ project.image }}" class="card-img-top" alt="{{ project.title }}">
+        {% endif %}
+        <div class="card-body">
+          <h5 class="card-title">{{ project.title }}</h5>
+          <p class="card-text">{{ project.excerpt | strip_html | truncatewords: 30 }}</p>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">{{ project.date | date: "%-d %B %Y" }}</small>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
