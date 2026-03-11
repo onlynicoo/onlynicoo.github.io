@@ -1,0 +1,185 @@
+{
+  "basics": {
+    "name": "Nicola Lorenzon",
+    "label": "Master's Student in Computer Science",
+    "image": "",
+    "email": "nicolalorenzon99@gmail.com",
+    "phone": "(+39) 3420880058",
+    "url": "https://onlynicoo.github.io",
+    "summary": "Master's student in Computer Science (AI & Robotics) at the University of Padua, currently on exchange at ETH Zürich (Rycolab). Research focused on the expressiveness of transformer models and formal language theory.",
+    "location": {
+      "city": "Zürich",
+      "countryCode": "CH",
+      "region": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "onlynicoo",
+        "url": "https://github.com/onlynicoo"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nicola-lorenzon",
+        "url": "https://linkedin.com/in/nicola-lorenzon-21b9461ba"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "ETH Zürich - Eidgenössische Technische Hochschule Zürich",
+      "location": "Zürich, Switzerland",
+      "url": "https://ethz.ch",
+      "area": "Natural Language Processing (Rycolab)",
+      "studyType": "SEMP Exchange Student",
+      "startDate": "2024-09-01",
+      "endDate": "2025-02-28",
+      "courses": ["Master Thesis: Expressivity of In-Context Learning in Large Language Models, supervised by Prof. Ryan Cotterell"]
+    },
+    {
+      "institution": "UniPD - University of Padua",
+      "location": "Padua, Italy",
+      "url": "https://www.unipd.it",
+      "area": "Artificial Intelligence & Robotics",
+      "studyType": "MSc in Computer Engineering",
+      "startDate": "2022-09-01",
+      "endDate": "2025-12-04",
+      "score": "110/110 with honors (29.75/30)",
+      "courses": ["Thesis: Expressivity of In-Context Learning in Large Language Models"]
+    },
+    {
+      "institution": "UniPD - University of Padua",
+      "location": "Padua, Italy",
+      "url": "https://www.unipd.it",
+      "area": "Computer Engineering",
+      "studyType": "BSc in Computer Engineering",
+      "startDate": "2018-09-01",
+      "endDate": "2021-12-31",
+      "score": "108/110",
+      "courses": ["Thesis: Loss Function for Image Segmentation"]
+    }
+  ],
+  "work": [
+    {
+      "name": "ETH Zürich - Eidgenössische Technische Hochschule Zürich",
+      "location": "Zürich, Switzerland",
+      "position": "Scientific Assistant Intern",
+      "url": "https://ethz.ch",
+      "startDate": "2025-02-01",
+      "endDate": "2025-05-31",
+      "highlights": [
+        "Performed research in Natural Language Processing and Formal Language Theory, focusing on the expressivity and computational properties of neural networks and large language models.",
+        "Two submissions under review and one manuscript in preparation."
+      ]
+    },
+    {
+      "name": "Noovle S.p.A.",
+      "location": "Milan, Italy",
+      "position": "Cloud Data Engineer - Business Intelligence Engineer",
+      "startDate": "2021-12-01",
+      "endDate": "2022-10-31",
+      "highlights": [
+        "Led a team of five engineers to implement from scratch an ETL pipeline for a major Italian bank on Google Cloud Platform (GCP).",
+        "Developed multiple Cloud Composer DAGs to orchestrate data flows and integrated a Python-based alert system for data quality monitoring.",
+        "Deployed Looker dashboards used daily for cost analysis and forecasting, enhancing decision-making efficiency for the client."
+      ]
+    },
+    {
+      "name": "Social Thingum",
+      "location": "Milan, Italy",
+      "position": "Software Engineer Intern",
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-31",
+      "highlights": [
+        "Configured a MySQL database and deployed a complete e-commerce website using XAMPP.",
+        "Developed a binary classification model for food data using Python, improving data processing efficiency by 12%."
+      ]
+    },
+    {
+      "name": "I.P.S.I.A. della Valentina - PNRI00602X",
+      "location": "Sacile, Italy",
+      "position": "Full Time Teacher",
+      "startDate": "2021-02-01",
+      "endDate": "2021-07-31",
+      "highlights": [
+        "Taught Electrical and Electronic Science and Technologies to a class of 25 high school students, developing lesson plans and hands-on labs to facilitate practical learning."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Lead The Future",
+      "position": "Volunteer Developer",
+      "startDate": "2025-01-01",
+      "endDate": "2025-09-01",
+      "summary": "Selected (1 of 10) by LTF to contribute as a volunteer to the development of a chatbot aimed at scaling their systems.",
+      "highlights": ["Python chatbot development"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "FoodSight",
+      "summary": "Computer Vision system to monitor and predict food consumption and food waste in canteens. The project aims to promote sustainability, quality and customer satisfaction.",
+      "highlights": ["Won a €11.644 grant from the University of Padova", "Python, OpenCV"],
+      "startDate": "2024-02-01",
+      "endDate": "2025-03-01"
+    },
+    {
+      "name": "RAG - UniPD Academic Assistant",
+      "summary": "Retrieval-Augmented Generation (RAG) system for answering students' questions about the Computer Engineering curriculum at UniPD. Dataset built by scraping the university website.",
+      "highlights": ["Python, HuggingFace", "Model selection to optimize performance"],
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Machine Learning & NLP",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["Transformer Models", "Formal Language Theory", "In-Context Learning", "RAG", "HuggingFace"]
+    },
+    {
+      "name": "Computer Vision",
+      "level": "Advanced",
+      "icon": "fa-solid fa-eye",
+      "keywords": ["OpenCV", "SHAP", "Grad-CAM", "Image Segmentation"]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "C++", "SQL", "ROS"]
+    },
+    {
+      "name": "Cloud & Data Engineering",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-cloud",
+      "keywords": ["Google Cloud Platform", "Cloud Composer", "Looker", "ETL Pipelines"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "icon": "fa-solid fa-microscope",
+      "keywords": ["NNs Expressivity", "Formal Language Theory"]
+    },
+    {
+      "name": "Personal Interests",
+      "icon": "fa-solid fa-music",
+      "keywords": ["Building Sound Systems", "Digital Sound Processing"]
+    }
+  ]
+}
