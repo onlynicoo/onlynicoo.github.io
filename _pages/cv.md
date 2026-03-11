@@ -1,13 +1,11 @@
 ---
-layout: archive
-title: "CV"
+layout: cv
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: cv
+nav: true
+nav_order: 5
+cv_pdf: example_pdf.pdf
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---
-
-{% include base_path %}
-
-The following is my updated CV; please use it carefully.
-<embed src="/files/CV_Nicola_Lorenzon.pdf" width="600" height="500" type="application/pdf">

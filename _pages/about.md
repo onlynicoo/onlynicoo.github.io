@@ -1,18 +1,25 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Nicola, a master’s student at the University of Padua (UniPD), currently completing an exchange semester at ETH Zürich to work on my thesis, co-supervised by [Prof. Giorgio Satta](https://scholar.google.com/citations?user=MLTHFaAAAAAJ&hl=en) and [Prof. Ryan Cotterell](https://scholar.google.com/citations?user=DexOqtoAAAAJ&hl=en&oi=sra).
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-My thesis lie in the intersection of artificial intelligence and formal language theory, with a focus on understanding the theoretical guarantees of AI models. Currently, I’m exploring the expressiveness of transformer models through the tools of formal language theory, aiming to uncover what these models can actually do.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Before diving into this field, I completed my bachelor's and master's degree at UniPD. During my master's, I was awarded a [12k€ grant](https://www.unipd.it/sites/unipd.it/files/2023/Prot_Verbale%20riunione%20da%20remotoComm%20BPISS_30_10_2023.pdf.pdf) to develop a project in computer vision. I’ve consistently maintained a high academic standing, with a GPA of 29.7/30 throughout my studies.
-
-Outside of academics, I’m deeply passionate about reggae music (but not only), my friends and I built our own soundsystem! When I’m not immersed in research or new projects, you can find me exploring new music and seeking out fresh opportunities.
-
-**Note:** This website is still a work in progress, so stay tuned for updates!
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
